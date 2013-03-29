@@ -12,7 +12,6 @@
     <movie minorVersion="2" />
     <movie platform="AIR Mobile" />
     <movie background="#000000" />
-    <movie preferredSDK="Flex 4.6.0, AIR 3.1;4.6.0, 3.1;" />
   </output>
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
